@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas16 {
+public class Tugas16  {
 
     static Scanner inputAngka = new Scanner(System.in);
 
