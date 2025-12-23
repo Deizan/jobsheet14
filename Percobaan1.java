@@ -1,5 +1,5 @@
 public class Percobaan1 {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         System.out.println(FaktorialRekrusif(5));
         System.out.println(FaktorialIteratif(5));
     }
